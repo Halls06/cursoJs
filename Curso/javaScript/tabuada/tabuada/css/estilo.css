@@ -1,0 +1,44 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+body {
+    background: #187a97;
+    margin: auto;
+    align-items: center;
+}
+
+header {
+    color: #fff;
+    font: 600 20pt Arial;
+    margin-top:  50px;
+
+    text-align: center;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.384);
+}
+
+section {
+    background: #fff;
+    font: 700 15pt Arial;
+    margin-top:  50px;
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.384);
+    text-align: center;
+}
+
+footer {
+    color: #fff;
+    font: normal 15pt Arial;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+
+#seltab {
+    padding: 5px;
+    margin: 10px;
+}
+
